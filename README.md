@@ -1,27 +1,31 @@
-# PlaystoreAngular
+# PSN Store Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+**PSN Store Clone - Angular Project**
 
-## Development server
+![PSN Store Clone](src/assets/preview.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+### Descrição do Projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este é um projeto de clone da interface da PlayStation Store (PSN) desenvolvido utilizando Angular. O objetivo deste projeto é recriar a tela da PSN Store em um ambiente web, utilizando as tecnologias modernas do Angular.
 
-## Build
+### Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular:** Um framework de desenvolvimento de aplicativos web desenvolvido e mantido pelo Google.
+  
+- **HTML/CSS:** Linguagens fundamentais para a criação de interfaces web.
 
-## Running unit tests
+### Como Executar o Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Instalação das Dependências:**
+   ```
+   npm install
+   ```
 
-## Running end-to-end tests
+2. **Execução do Servidor de Desenvolvimento:**
+   ```
+   ng serve
+   ```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+3. **Navegue para:** `http://localhost:4200/`
